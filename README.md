@@ -1,0 +1,1 @@
+Hi guys, I built an 88-key piano using a Raspberry Pi Pico in a previous series. However, even though I added filters and amps, the sound was still too Midi. Therefore, I came up with an idea why I can’t use some extended software like GarageBand to output the sound and make it better. Then, let’s try it out!
